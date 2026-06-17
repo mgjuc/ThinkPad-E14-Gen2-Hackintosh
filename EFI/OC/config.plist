@@ -2416,7 +2416,7 @@
                     <key>Count</key>
                     <integer>1</integer>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Find</key>
                     <data>hAB1Sw==</data>
                     <key>Identifier</key>
