@@ -661,7 +661,7 @@
                     <key>Comment</key>
                     <string>V1.1.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/USBToolBox</string>
                     <key>MaxKernel</key>
@@ -679,7 +679,7 @@
                     <key>Comment</key>
                     <string>V1.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -1381,7 +1381,7 @@
                     <key>Comment</key>
                     <string>V2.6.8</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -1399,7 +1399,7 @@
                     <key>Comment</key>
                     <string>V2.6.8</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BrcmFirmwareData</string>
                     <key>MaxKernel</key>
@@ -1417,7 +1417,7 @@
                     <key>Comment</key>
                     <string>V2.6.8</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BrcmPatchRAM3</string>
                     <key>MaxKernel</key>
