@@ -7,3 +7,7 @@
 #### 机型介绍
 
 [ThinkPad E14 锐龙版](https://newthink.lenovo.com.cn/driveList.html?selname=ThinkPad%20E14%20%E9%94%90%E9%BE%99%E7%89%88)
+
+
+#### Troubleshooting
+任务栏有个pcie图标，点[关闭]还会直接崩溃，移除方法是打开Kernel->patchs->fix pcie bus xxx [patch代码](https://github.com/lzhoang2801/OpCore-Simplify/issues/92)
